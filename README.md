@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m currently a 3rd year CS Undergrad who is very interested in the fields of Ethical Hacking.
+
+Website : https://serajkhan23.github.io/
